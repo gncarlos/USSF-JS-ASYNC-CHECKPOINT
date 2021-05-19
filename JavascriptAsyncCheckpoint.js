@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var fs = require('fs')
 const fetch = require('node-fetch')
 
